@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm currently diving deep into the world of Autono
 C | C++ | JavaScript | HTML | CSS | Python | Go | Rust
 Tensorflow | Git | Firebase | npm | Altium
 
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasotnes&theme=github_dark)
+
 ![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathiasotnes&theme=dracula)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasotnes&theme={dracula})

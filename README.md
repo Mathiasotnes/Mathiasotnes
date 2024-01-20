@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Mathiasotnes/Mathiasotnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently diving deep into the world of Autonomous Systems as a third-year MSc student in Cybernetics and Robotics at NTNU. My passion lies in Machine Learning and Embedded Systems, where I'm blending the boundaries between hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **MSc in Cybernetics and Robotics, NTNU**
+  - Specializing in Autonomous Systems
+  - Year: Third-Year Student
+
+## 🌐 Connect with me
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/mathias-otnes-143912231/))
+- **Email**: [Mathias.otnes@gmail.com](mailto:Mathias.otnes@gmail.com)
+
+## 💼 Technical Skills
+```plaintext
+C | C++ | JavaScript | HTML | CSS | Python | Go | Rust
+Tensorflow | Git | Firebase | npm | Altium

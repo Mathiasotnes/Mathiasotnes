@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm currently diving deep into the world of Autono
 - **Email**: [Mathias.otnes@gmail.com](mailto:Mathias.otnes@gmail.com)
 
 ## 💼 Technical Skills
-```plaintext
+
 C | C++ | JavaScript | HTML | CSS | Python | Go | Rust
 Tensorflow | Git | Firebase | npm | Altium
 

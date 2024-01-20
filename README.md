@@ -19,5 +19,5 @@ C | C++ | JavaScript | HTML | CSS | Python | Go | Rust
 Tensorflow | Git | Firebase | npm | Altium
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={Mathiasotnes}&theme={dracula})
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiasotnes&theme={dracula})
 

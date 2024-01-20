@@ -17,3 +17,5 @@ Welcome to my GitHub profile! I'm currently diving deep into the world of Autono
 ```plaintext
 C | C++ | JavaScript | HTML | CSS | Python | Go | Rust
 Tensorflow | Git | Firebase | npm | Altium
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}

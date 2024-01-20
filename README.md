@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm currently diving deep into the world of Autonomous Systems as a third-year MSc student in Cybernetics and Robotics at NTNU. My passion lies in Machine Learning and Embedded Systems, where I'm blending the boundaries between hardware and software.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/mathias-otnes-143912231/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/mathias-otnes-143912231/)]
 
 
 ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasotnes&theme=github_dark)

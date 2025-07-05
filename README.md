@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mathias Otnes</h1>
-  <p>Welcome to my GitHub profile! I'm currently diving deep into the world of Autonomous Systems as a third-year MSc student in Cybernetics and Robotics at NTNU. My passion lies in Machine Learning and Embedded Systems, where I'm blending the boundaries between hardware and software.</p>
+  <p>Welcome to my GitHub profile! I'm currently diving deep into the world of Autonomous Systems as a firth-year MSc student in Cybernetics and Robotics at NTNU and UCSD. My passion lies in Machine Learning, statistics, estimation and Embedded Systems, where I'm blending the boundaries between hardware and software.</p>
   
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/mathias-otnes-143912231/">
@@ -17,7 +17,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathiasotnes&theme=github_dark" alt="Profile summary">
   
 
-  <H2>Favorite Technologies</H2>
+  <h2>Favorite Technologies</h2>
   <!-- Technologies Badges -->
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch Badge">
@@ -43,5 +43,3 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 </div>
-
-
